@@ -1,0 +1,11 @@
+AI_ID,AI_System,Provider_or_Architecture,Use_Case,Risk_Tier,Human_Oversight,Owner,Data_Sensitivity,Tool_Access,Assessment_Status
+GENAI-001,Customer Service Assistant,ChatGPT Enterprise,Customer response drafting,High,Human-in-loop,Customer Operations,Confidential,CRM read-only,Assessed
+GENAI-002,Internal Knowledge Assistant,Internal RAG/LLM,Enterprise knowledge search,Moderate,Human-in-loop,Knowledge Management,Confidential,Document retrieval,Assessed
+GENAI-003,Developer Assistant,Claude Enterprise,Coding assistance,Moderate,Human-in-loop,Engineering,Confidential,Code repository,Assessed
+GENAI-004,Cybersecurity Assistant,Internal LLM,Security investigation support,High,Human-in-loop,SOC,Restricted,Security tools read-only,Assessed
+GENAI-005,Marketing Assistant,Gemini Enterprise,Marketing content,Low,Human-in-loop,Marketing,Internal,None,Assessed
+GENAI-006,Legal Summarisation Assistant,Claude Enterprise,Legal summarisation,High,Human-in-loop,Legal,Restricted,Document repository read-only,Assessed
+GENAI-007,HR Assistant,Gemini Enterprise,HR communications,High,Human-in-loop,HR,Restricted,HR knowledge read-only,Assessed
+GENAI-008,Security Operations Agent,Internal LLM + tools,Automated security triage,Critical,Human-in-loop,SOC,Restricted,Ticketing + security APIs,Assessed
+GENAI-009,Customer Service Agent,Internal LLM + tools,Case workflow automation,High,Human-in-loop,Customer Operations,Confidential,CRM limited actions,Assessed
+GENAI-010,Executive Research Assistant,ChatGPT Enterprise,Research and briefing,Moderate,Human-in-loop,Strategy,Confidential,Web/search,Assessed

@@ -1,0 +1,15 @@
+# AI Vendor Risk Assessment
+- Vendor:
+- Model/service:
+- Data processing:
+- Training use:
+- Retention:
+- Subprocessors:
+- Security assurance:
+- Incident notification:
+- Data location:
+- Contract/DPA:
+- Business continuity:
+- Exit strategy:
+- Risk rating:
+- Approval:

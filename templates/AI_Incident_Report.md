@@ -1,0 +1,14 @@
+# AI Incident Report
+- Incident ID:
+- Date/time:
+- AI system:
+- Detection source:
+- Risk category:
+- Data involved:
+- Impact:
+- Containment:
+- Investigation:
+- Notification:
+- Root cause:
+- Corrective action:
+- Lessons learned:

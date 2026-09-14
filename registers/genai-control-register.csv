@@ -1,0 +1,21 @@
+Control_ID,Control,Owner,Frequency,Evidence,Risk_Coverage
+GOV-01,AI acceptable-use policy,GRC,Annual,Approved policy,Shadow AI;IP leakage;Data leakage
+GOV-02,GenAI risk assessment,AI Governance,Annual/Trigger,Assessment,All material risks
+GOV-03,Approved AI inventory,GRC,Monthly,Inventory,Shadow AI;Third-party dependency
+GOV-04,AI exception process,GRC,As needed,Exception register,All governance risks
+GOV-05,Human oversight policy,AI Governance,Annual,Policy,Hallucination;Excessive agency;Human oversight
+GOV-06,AI incident process,SOC/GRC,Annual test,Exercise report,AI incidents
+SEC-01,DLP for AI data flows,Security,Continuous,DLP logs,Data leakage;IP leakage
+SEC-02,IAM/RBAC,IAM,Quarterly,Access review,Excessive agency;RAG weakness
+SEC-03,Tool allowlisting,AI Security,Monthly,Tool register,Excessive agency;Insecure tools
+SEC-04,Prompt-injection testing,AppSec,Quarterly,Test report,Prompt injection
+SEC-05,AI red-team testing,AI Security,Semiannual,Red-team report,Prompt injection;Excessive agency;Prompt leakage
+SEC-06,Logging and monitoring,SOC,Continuous,SIEM records,All risks
+SEC-07,Secrets management,Security,Continuous,Scan results,Prompt leakage;Tool risk
+SEC-08,API security,AppSec,Continuous,API test results,Insecure tools;Data leakage
+DAT-01,Data classification,Data Governance,Annual,Classification register,Data leakage;IP leakage
+DAT-02,Data minimisation,Privacy,Annual,Assessment,Data leakage
+DAT-03,Data retention,Privacy/Legal,Annual,Retention schedule,Data leakage
+DAT-04,Data provenance,AI Engineering,Per change,Lineage record,Model manipulation
+DAT-05,Retrieval ACL enforcement,AI Engineering,Quarterly,Access test,RAG weakness
+DAT-06,DLP monitoring,Security,Continuous,DLP reports,Data leakage

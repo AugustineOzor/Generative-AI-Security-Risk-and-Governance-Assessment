@@ -1,0 +1,21 @@
+# GenAI Risk Assessment Template
+- AI System:
+- Business Owner:
+- Technical Owner:
+- Use Case:
+- Data Types:
+- External/Internal Model:
+- Tool/Plugin Access:
+- Human Oversight:
+- Threat Scenarios:
+- Inherent Likelihood:
+- Inherent Impact:
+- Inherent Risk:
+- Controls:
+- Evidence:
+- Residual Likelihood:
+- Residual Impact:
+- Residual Risk:
+- Treatment:
+- Approval:
+- Reassessment Trigger:

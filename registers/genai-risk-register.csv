@@ -1,0 +1,13 @@
+Risk_ID,Risk,Category,Likelihood,Impact,Inherent_Score,Inherent_Level,Primary_Control,Owner,Residual_Score,Residual_Level
+GAI-001,Prompt injection,Security,4,5,20,Critical,Prompt validation and adversarial testing,AI Security,10,High
+GAI-002,Sensitive information disclosure,Privacy/Security,4,5,20,Critical,DLP and data classification,CISO,10,High
+GAI-003,Hallucination/misinformation,Reliability,4,4,16,High,Grounding and human review,Business Owner,6,Moderate
+GAI-004,Excessive agency,Security,4,5,20,Critical,Least privilege and tool allowlisting,IAM/AI Security,8,Moderate
+GAI-005,Insecure plugins/tools,Supply Chain,4,4,16,High,Plugin security review,Security Architecture,8,Moderate
+GAI-006,Model/data manipulation,Integrity,3,5,15,High,Data provenance and integrity checks,AI Engineering,6,Moderate
+GAI-007,Intellectual property leakage,Privacy/IP,4,4,16,High,DLP and acceptable-use controls,Legal/Security,8,Moderate
+GAI-008,Shadow AI,Governance,3,5,15,High,Approved-tool policy and discovery,GRC/IT,6,Moderate
+GAI-009,Inadequate human oversight,Governance,4,4,16,High,Human approval gates,Business Owner,6,Moderate
+GAI-010,Third-party AI dependency,Supply Chain,3,5,15,High,Vendor due diligence and contracts,Procurement/GRC,8,Moderate
+GAI-011,System prompt leakage,Security,3,4,12,High,Secret separation and testing,AI Engineering,6,Moderate
+GAI-012,RAG/vector weakness,Security,4,4,16,High,Access-aware retrieval and vector security,AI Engineering,8,Moderate
