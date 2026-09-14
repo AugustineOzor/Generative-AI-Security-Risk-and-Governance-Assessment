@@ -1,4 +1,4 @@
-# Project 3 — Generative AI Security, Risk and Governance Assessment
+# Generative AI Security, Risk and Governance Assessment
 
 **Fictional organisation:** Northstar Financial Services (NFS)  
 **Assessment date:** September 2026  
